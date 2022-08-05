@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My RecyclerView</string>
+    <string name="name">Mofizol Hasan Orpon</string>
+    <string name="time">time</string>
+    <string name="description">Description</string>
+    <string name="likes">likes</string>
+    <string name="_12">12</string>
+    <string name="share">Share</string>
+</resources>
